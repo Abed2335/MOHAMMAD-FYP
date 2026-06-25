@@ -1,0 +1,12 @@
+Project Source Code
+
+The complete source code ZIP file for this project is available through Google Drive due to GitHub web upload size limitations.
+
+Google Drive Link:
+https://drive.google.com/drive/folders/1KzsOjb3m2a2GhjTziBJ-mJudveIz4cjO?usp=drive_link
+
+The ZIP file contains:
+- Python source code
+- Speech-recognition implementation files
+- Vosk/PocketSphinx/CMUSphinx related files
+- Supporting project files
